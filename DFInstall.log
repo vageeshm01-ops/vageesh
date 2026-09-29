@@ -1,0 +1,95 @@
+2024-04-26 16:39:17 [2720-13032] :: Info :: 
+2024-04-26 16:39:17 [2720-13032] :: Info :: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2024-04-26 16:39:17 [2720-13032] :: Info :: DF Standard Installer version: 8.63.020.5634
+2024-04-26 16:39:17 [2720-13032] :: Info :: Check for supported platforms.
+2024-04-26 16:39:17 [2720-13032] :: Info :: Clean Installation for the first time.
+2024-04-26 16:39:17 [2720-13032] :: Info :: 4.0 - Detected Windows 10 version or higher. Check for Windows Updates that are pending configuration.
+2024-04-26 16:39:17 [2720-13032] :: Info :: Windows Updates Query Package Information - Version = 8.63.020.5634
+2024-04-26 16:39:17 :: Windows Updates Command Line - Version = 8.63.020.5634
+2024-04-26 16:39:17 :: Package Count = 151
+2024-04-26 16:39:19 :: [20] NAME=Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~amd64~~11.0.22621.2506 :: TYPE=On-demand Pack :: DESCRIPTION=Enables Internet Explorer mode functionality in Microsoft Edge. :: INSTALL-TIME(UTC)=01:06:13 Saturday, December 09, 2023 :: STATE=Superseded :: RESTART=Required (Override Restart Required - More than 6 hrs have elapsed)
+2024-04-26 16:39:19 :: [21] NAME=Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~amd64~~11.0.22621.3447 :: TYPE=On-demand Pack :: DESCRIPTION=Enables Internet Explorer mode functionality in Microsoft Edge. :: INSTALL-TIME(UTC)=05:12:01 Thursday, April 25, 2024 :: STATE=Installed :: RESTART=Required (Override Restart Required - More than 6 hrs have elapsed)
+2024-04-26 16:39:19 :: [146] NAME=Package_for_KB5027397~31bf3856ad364e35~amd64~~22621.2355.1.1 :: TYPE=Update :: DESCRIPTION=Fix for KB5027397 :: INSTALL-TIME(UTC)=01:08:31 Saturday, December 09, 2023 :: STATE=Installed :: RESTART=Required (Override Restart Required - More than 6 hrs have elapsed)
+2024-04-26 16:39:19 [2720-13032] :: Info :: NO updates are IN-PROGRESS and PENDING configuration. NO Reboot is REQUIRED or PENDING - Proceed with DeepFreeze installation.
+2024-04-26 16:39:28 [13496-13492] :: Info :: 
+2024-04-26 16:39:28 [13496-13492] :: Info :: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+2024-04-26 16:39:28 [13496-13492] :: Info :: DF Installer version: 8.63.020.5634
+2024-04-26 16:39:28 [13496-13492] :: Info :: Check for supported platforms.
+2024-04-26 16:39:28 [13496-13492] :: Info :: 1.0 - Start Pre-installation checks.
+2024-04-26 16:39:28 [13496-13492] :: Info :: 1.2 - Detected Windows Desktop (Non-server Edition)
+2024-04-26 16:39:28 [13496-13492] :: Info :: 1.11 - Pre-installation tests completed SUCCESSFULLY.
+2024-04-26 16:39:28 [13496-13492] :: Info :: 2.0 - Read Configuration and Setup Flags.
+2024-04-26 16:39:28 [13496-13492] :: Info :: 2.5 - Read Configuration and Setup Flags completed SUCCESSFULLY.
+2024-04-26 16:39:28 [13496-13492] :: Info :: 3.0 - Check for upgradability.
+2024-04-26 16:39:28 [13496-13492] :: Info :: Clean Installation for the first time.
+2024-04-26 16:39:28 [13496-13492] :: Info :: Clean Installation for the first time.
+2024-04-26 16:39:28 [13496-13492] :: Info :: 4.0 - Detected Windows 10 version or higher. Check for Windows Updates that are pending configuration.
+2024-04-26 16:39:28 [13496-13492] :: Info :: Windows Updates Query Package Information - Version = 8.63.220.5634
+2024-04-26 16:39:28 :: Windows Updates Command Line - Version = 8.63.220.5634
+2024-04-26 16:39:29 :: Package Count = 151
+2024-04-26 16:39:30 :: [20] NAME=Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~amd64~~11.0.22621.2506 :: TYPE=On-demand Pack :: DESCRIPTION=Enables Internet Explorer mode functionality in Microsoft Edge. :: INSTALL-TIME(UTC)=01:06:13 Saturday, December 09, 2023 :: STATE=Superseded :: RESTART=Required (Override Restart Required - More than 6 hrs have elapsed)
+2024-04-26 16:39:30 :: [21] NAME=Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~amd64~~11.0.22621.3447 :: TYPE=On-demand Pack :: DESCRIPTION=Enables Internet Explorer mode functionality in Microsoft Edge. :: INSTALL-TIME(UTC)=05:12:01 Thursday, April 25, 2024 :: STATE=Installed :: RESTART=Required (Override Restart Required - More than 6 hrs have elapsed)
+2024-04-26 16:39:31 :: [146] NAME=Package_for_KB5027397~31bf3856ad364e35~amd64~~22621.2355.1.1 :: TYPE=Update :: DESCRIPTION=Fix for KB5027397 :: INSTALL-TIME(UTC)=01:08:31 Saturday, December 09, 2023 :: STATE=Installed :: RESTART=Required (Override Restart Required - More than 6 hrs have elapsed)
+2024-04-26 16:39:31 [13496-13492] :: Info :: NO updates are IN-PROGRESS and PENDING configuration. NO Reboot is REQUIRED or PENDING - Proceed with DeepFreeze installation.
+2024-04-26 16:39:31 [13496-13492] :: Info :: 5.0 - Preprocess Thawspace volume drives.
+2024-04-26 16:39:31 [13496-13492] :: Info :: 5.9 - Preprocess Thawspace Volume Drives completed SUCCESSFULLY.
+2024-04-26 16:39:33 [13496-13492] :: Info :: Check for minimum available disk space
+2024-04-26 16:39:33 [13496-13492] :: Info :: Start DeepFreeze Installation
+2024-04-26 16:39:33 [13496-13492] :: Info :: Handle License Validation
+2024-04-26 16:39:33 [13496-13492] :: Info :: Handle Existing ThawSpaces
+2024-04-26 16:39:33 [13496-13492] :: Info :: Starting DeepFreeze Installation-1
+2024-04-26 16:39:33 [13496-13492] :: Info :: Setup DeepFreeze Install folder
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy DeepFreeze files
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=FrzState2k.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\\_$Df\
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=DeepFreezeAdapter.dll To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=WUCommandLine.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=DFServ.exe To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy MOF files
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=FaronicsWebProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=FaronicsWebProduct_v1.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:33 [13496-13492] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy MOF files
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=FaronicsWebProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=FaronicsWebProduct_v1.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:33 [13496-13492] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:33 [13496-13492] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2024-04-26 16:39:33 [13496-13492] :: Info :: Install MOF files
+2024-04-26 16:39:33 [13496-13492] :: Info :: Install Adapter
+2024-04-26 16:39:33 [13496-13492] :: Info :: Install DeepFreeze Service
+2024-04-26 16:39:35 [13496-13492] :: Info :: Detected Workstation Install
+2024-04-26 16:39:35 [13496-13492] :: Info :: Copy File From=DeepFrz.sys To=C:\windows\system32\drivers\
+2024-04-26 16:39:35 [13496-13492] :: Info :: Install Driver (DeepFrz.sys)
+2024-04-26 16:39:35 [13496-13492] :: Info :: Install Volume Filters
+2024-04-26 16:39:35 [13496-13492] :: Info :: Install Disk Filters
+2024-04-26 16:39:35 [13496-13492] :: Info :: Install Mouse Filter
+2024-04-26 16:39:35 [13496-13492] :: Info :: Install Keyboard Filter
+2024-04-26 16:39:35 [13496-13492] :: Info :: Install/Upgrade FarDisk Driver
+2024-04-26 16:39:35 [13496-13492] :: Info :: Copy File From=DfDiskLo.sys To=C:\windows\system32\drivers\
+2024-04-26 16:39:35 [13496-13492] :: Info :: Install Driver (DFDiskLo.sys)
+2024-04-26 16:39:35 [13496-13492] :: Info :: Install Disk Lower Filter
+2024-04-26 16:39:35 [13496-13492] :: Info :: Copy File From=DFFilter.sys To=C:\windows\system32\drivers\
+2024-04-26 16:39:35 [13496-13492] :: Info :: Install Driver (DFFilter.sys)
+2024-04-26 16:39:35 [13496-13492] :: Info :: NTFS File System supported
+2024-04-26 16:39:55 [13496-13492] :: Info :: Handle BootStat
+2024-04-26 16:39:55 [13496-13492] :: Error :: DInstall2000::RenameBootStat() - 1. MoveFileEx() call FAILED with an Error = 0x00000020 - The process cannot access the file because it is being used by another process. 
+2024-04-26 16:39:55 [13496-13492] :: Info :: Handle Crash Control
+2024-04-26 16:39:55 [13496-13492] :: Info :: Handle Logon
+2024-04-26 16:39:55 [13496-13492] :: Info :: Handle Check Disk
+2024-04-26 16:39:55 [13496-13492] :: Info :: Handle Miscellaneous Registry
+2024-04-26 16:39:55 [13496-13492] :: Info :: Copy MOF files
+2024-04-26 16:39:55 [13496-13492] :: Info :: Copy File From=FaronicsWebProduct.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:55 [13496-13492] :: Info :: Copy File From=FaronicsWebProduct_v1.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:55 [13496-13492] :: Info :: Copy File From=DeepFreezeWorkstation.mof To=C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\
+2024-04-26 16:39:55 [13496-13492] :: Info :: MOF Compiler File = C:\Program Files (x86)\Faronics\Deep Freeze\Install C-0\1.bat
+2024-04-26 16:39:55 [13496-13492] :: Info :: Install ThawSpaces
+2024-04-26 16:39:55 [13496-13492] :: Info :: Determining if existing ThawSpaces need to be retained
+2024-04-26 16:39:55 [13496-13492] :: Info :: Installing ThawSpace components
+2024-04-26 16:40:02 [13496-13492] :: Info :: Completed DeepFreeze Installation
+2024-04-26 16:40:07 [13496-13492] :: Info :: KcExitWindows::KcExitWindows(1.0) - ENTER
+2024-04-26 16:40:07 [13496-13492] :: Info :: KcExitWindows::KcExitWindows(1.1) - Modify Process Privileges
+2024-04-26 16:40:07 [13496-13492] :: Info :: KcExitWindows::KcExitWindows(1.2) - Launch Restart/Shutdown Thread
+2024-04-26 16:40:07 [13496-13940] :: Info :: ENTER - Flags = 0x00000001 (0=S 1=R 2=PO 3=LO)
+2024-04-26 16:40:08 [13496-13940] :: Info :: 1.0 - REBOOT
+2024-04-26 16:40:08 [13496-13940] :: Info :: 1.3 - InitiateShutdownW() completed SUCCESSFULLY
+2024-04-26 16:40:08 [13496-13940] :: Info :: 1.4 - 60 sec delay
